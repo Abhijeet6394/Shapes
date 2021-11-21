@@ -1,0 +1,65 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #E3516E;
+}
+.circle{
+        height: 0px; 
+        width: 0px;
+       background-color:transparent;
+       border-radius: 50%;
+       margin: 100px 500px;
+       border-width: 80px;
+       border-style: solid;
+       border-left-color: #51B5A9;
+       border-right-color: transparent;
+       border-bottom-color: #F7F3D7;
+       border-top-color: #FADE8B;
+       transform: rotate(45deg);
+       
+}
+.container{
+     margin: 100px 550px; 
+}
+.button-tree{
+    margin: 250px 650px;
+}
+.button-circle{
+    margin-left: 500px;
+}
+
+
+.triangle1{
+    height: 0px;
+    width: 0px;
+    border-width: 80px;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom-color: #00A79D;
+     position: fixed; 
+     top: 153px;
+    
+       
+}
+.triangle2{
+    height: 0px;
+    width: 0px;
+    border-width: 80px;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom-color: #F5C181; 
+    position: fixed;
+    top: 125px;
+     
+}
+.triangle3{
+    height: 0px;
+    width: 0px;
+    border-width: 80px;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom-color:#FFEECF;
+    position: fixed;
+    top: 95px;
+    
+}
